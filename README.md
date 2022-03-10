@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hourly Experience With Frameworks, Languages, etc:
+ ![TreeMap](https://chartfromnotion.netlify.app/.netlify/functions/createChart)
 
 <!--
 **twofingerrightclick/twofingerrightclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
