@@ -1,5 +1,5 @@
 ### How my days as a developer have been spent:
- ![TreeMap](https://chartfromnotion.netlify.app/.netlify/functions/getChart)
+ ![Chart](https://chartfromnotion.netlify.app/.netlify/functions/getChart)
 
 <!--
 **twofingerrightclick/twofingerrightclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
