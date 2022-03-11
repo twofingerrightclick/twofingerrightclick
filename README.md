@@ -1,5 +1,5 @@
 ### How my days as a developer have been spent:
- ![Chart](https://res.cloudinary.com/dhy8gkkyx/image/upload/devChart/chart.png)
+ ![a chart from Notion](https://res.cloudinary.com/dhy8gkkyx/image/upload/devChart/chart.png)
 
 <!--
 **twofingerrightclick/twofingerrightclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
