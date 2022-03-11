@@ -1,4 +1,4 @@
-### Daily Experience With Frameworks, Languages, etc:
+### How my days as a developer have been spent:
  ![TreeMap](https://chartfromnotion.netlify.app/.netlify/functions/getChart)
 
 <!--
