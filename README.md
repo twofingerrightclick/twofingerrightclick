@@ -1,4 +1,4 @@
-### Hourly Experience With Frameworks, Languages, etc:
+### Daily Experience With Frameworks, Languages, etc:
  ![TreeMap](https://chartfromnotion.netlify.app/.netlify/functions/getChart)
 
 <!--
